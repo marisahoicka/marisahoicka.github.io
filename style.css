@@ -2,8 +2,14 @@
 	text-align: center;
 	padding-top: 20%;
 	padding-bottom: 10%;
-	color: #fff;
+	color: hsl(370,100%,35%);
 }
 body{
-background: url(fado-youtube-frame.jpg) no-repeat center center;
+background: url(fado-youtube-frame2.jpg) no-repeat center center;
+
+#mc_embed_signup {
+	background: rgba(0,0,0,0.6);#000;
+	clear:left;
+	font:14px Helvetica,Arial,sans-serif;
+	color: #fff;
 }
