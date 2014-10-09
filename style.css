@@ -3,13 +3,27 @@
 	padding-top: 20%;
 	padding-bottom: 10%;
 	color: hsl(370,100%,35%);
+	font-family:"Lucida Bright",Georgia,serif;
 }
 body{
 background: url(fado-youtube-frame2.jpg) no-repeat center center;
+}
 
 #mc_embed_signup {
 	background: rgba(0,0,0,0.6);#000;
 	clear:left;
 	font:14px Helvetica,Arial,sans-serif;
 	color: #fff;
+}
+
+.features1 {
+	text-align: center;
+	color: hsl(370,100%,35%);
+	font-family:"Lucida Bright",Georgia,serif;
+}
+
+.features2 {
+	text-align: center;
+	color: #00Bfff;
+	font-family:"Lucida Bright",Georgia,serif;
 }
